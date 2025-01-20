@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-vectorstores
+langchain-community
+faiss-cpu
